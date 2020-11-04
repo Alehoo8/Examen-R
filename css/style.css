@@ -1,0 +1,18 @@
+.bg_black {
+    background-color: black;
+}
+.btn_sig {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 5px 0px 5px 0px;
+    transition-duration: 0.3s;
+}
+.btn_sig:hover {
+    background-color:gainsboro;
+}
+
+.head_menu {
+    padding: 15px 0px 15px 0px;
+
+}
