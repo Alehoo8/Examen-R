@@ -25,10 +25,11 @@
     color: white;
 }
 
-.body1 {
-    padding: 80px 20px 20px 20px;
-
+.body1 {       
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
+
 .body1_btn_play {
     position: absolute;
     width: 50px;
@@ -59,22 +60,25 @@
 }
 
 .body1_text_all{
-    padding-top: 130px;
+    padding-bottom: 50px;
 }
 
 .body1_img{
     padding-bottom: 25px;
 }
 
+.body2_1{
+    padding-bottom: 50px;
+}
+
 .body2_text {
     font-size: 30px;
-    padding-top: 200px;
     text-align: justify;
 }
 
-.body2_img{
-    padding-bottom: 65px;
-    
+.body3_1{
+    padding-top: 60px;
+    padding-bottom: 40px;
 }
 
 .body3_text{
@@ -101,6 +105,10 @@
     padding-top: 180px;
 }
 
+.body5_pad_text{
+    padding-bottom: 10px;
+}
+
 .body6_pad_all{
     padding-top: 180px;
 }
@@ -112,6 +120,11 @@
 
 .body6_color_txt{
     color:rgb(134, 131, 131);
+}
+
+.body6_container_text{
+    padding-bottom: 100px;
+
 }
 
 .footer_img{
